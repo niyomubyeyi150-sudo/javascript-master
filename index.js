@@ -1,0 +1,3 @@
+document.getElementById("Title").innerHTML="This is introduction to DOM manipulation using Javascript";
+document.getElementsByTagName("p")[0].innerHTML="HTML document as a hierarchy of nodes and objects. JavaScript uses the DOM API to dynamically read, change, add, or delete content, styles, and structure after the page loads.";
+document.getElementsByClassName("description")[0].innerHTML="INTRODUCTION TO DOM MANIPULATION ";
